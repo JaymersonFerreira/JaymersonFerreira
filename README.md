@@ -1,4 +1,4 @@
-## Oi eu sou o Jaymerson Ferreira
+## ola! Eu sou o Jaymerson Ferreira
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Jayme-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
