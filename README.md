@@ -10,6 +10,7 @@
   <img align="center" alt="Jayme-Matlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" target="_blank"/> 
 <!--   <img align="center" alt="Jayme-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" target="_blank"/> -->
   <img align="center" alt="Jayme-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" target="_blank"/> 
+  <img align="center" alt="Jayme-Git" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Jayme-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" target="_blank"/> 
 
 </div>
