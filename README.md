@@ -2,9 +2,15 @@
 
 <div style="display: inline_block"><br>
 <!--   https://devicon.dev/ -->
-  <img align="center" alt="Jayme-Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Jayme-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
-  <img align="center" alt="Jayme-Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Jayme-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Jayme-Pandas" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img align="center" alt="Jayme-Anaconda" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+  <img align="center" alt="Jayme-Matlib" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" /> 
+  <img align="center" alt="Jayme-PostgreSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
+  <img align="center" alt="Jayme-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
+  <img align="center" alt="Jayme-Linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> 
+
+
 
 
 
