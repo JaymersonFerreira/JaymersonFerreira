@@ -1,4 +1,6 @@
-## Olá! Eu sou o Jaymerson Ferreira
+
+# Olá! Eu sou o Jaymerson Ferreira
+
 
 <div style="display: inline_block"><br>
 <!--   https://devicon.dev/ -->
@@ -12,6 +14,8 @@
 
 </div>
 
+##
+
 <div> 
 <!--   https://dev.to/envoy_/150-badges-for-github-pnk -->
   <a href = "mailto:jaymerson.ferreira.s@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -21,3 +25,5 @@
   
 
 </div>
+
+---
