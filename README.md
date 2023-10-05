@@ -32,11 +32,19 @@
 
 </div>
 
-<div>
-  
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaymersonFerreira&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JaymersonFerreira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div align="center">  
+  
+
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JaymersonFerreira&show_icons=true&count_private=true&hide_border=true&title_color=87CEFA&icon_color=87CEFA&text_color=c9d1d9&bg_color=0d1117" alt="Alan Vasconi github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaymersonFerreira&layout=compact&hide_border=true&title_color=87CEFA&text_color=87CEFA&bg_color=0d1117" />
+  
+  [![Gráfico de Atividades no Github](https://github-readme-activity-graph.vercel.app/graph?username=JaymersonFerreira&bg_color=0d1117&color=87CEFA&line=ffffff&point=b47707&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+
+
+
+
 
 <!--   <a href="https://instagram.com/jayme.json" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
 
